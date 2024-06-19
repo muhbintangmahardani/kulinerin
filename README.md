@@ -18,42 +18,42 @@ kredit, transfer bank, dan e-wallet.
 4. Pelacakan Pesanan: Memberikan informasi kepada pelanggan tentang status
 pesanan mereka mulai dari pemesanan hingga pengiriman.
 
-Penelusuran Restoran:
-
-Jelajahi berbagai restoran berdasarkan lokasi, jenis masakan, dan ulasan pelanggan.
+## Penelusuran Restoran:
+* Jelajahi berbagai restoran berdasarkan lokasi, jenis masakan, dan ulasan pelanggan.
 Temukan restoran baru dan populer di kota Anda dengan rekomendasi terkurasi.
-Menu Digital:
 
-Lihat menu lengkap dengan foto dan deskripsi hidangan.
+## Menu Digital:
+* Lihat menu lengkap dengan foto dan deskripsi hidangan.
 Filter menu berdasarkan kategori seperti vegetarian, vegan, bebas gluten, dll.
-Ulasan dan Rating:
 
-Baca ulasan jujur dari pelanggan lain untuk membantu Anda membuat pilihan terbaik.
+## Ulasan dan Rating:
+* Baca ulasan jujur dari pelanggan lain untuk membantu Anda membuat pilihan terbaik.
 Berikan rating dan ulasan untuk pengalaman makan Anda.
-Promosi dan Diskon:
 
-Dapatkan informasi terbaru tentang promosi, diskon, dan penawaran spesial dari berbagai restoran.
+## Promosi dan Diskon:
+* Dapatkan informasi terbaru tentang promosi, diskon, dan penawaran spesial dari berbagai restoran.
 Daftar untuk mendapatkan newsletter eksklusif dengan penawaran istimewa.
-Pemesanan Online:
 
-Pesan makanan untuk dibawa pulang atau antar langsung ke rumah Anda dengan beberapa klik saja.
+## Pemesanan Online:
+* Pesan makanan untuk dibawa pulang atau antar langsung ke rumah Anda dengan beberapa klik saja.
 Pilih metode pembayaran yang Anda inginkan: tunai, kartu kredit, atau dompet digital.
-Reservasi Meja:
 
-Pesan meja di restoran favorit Anda untuk menghindari antrian.
+## Reservasi Meja:
+* Pesan meja di restoran favorit Anda untuk menghindari antrian.
 Kelola reservasi Anda dengan mudah melalui profil pengguna.
-Blog dan Artikel Kuliner:
 
-Baca artikel menarik tentang tren kuliner terbaru, resep masakan, dan tips makan sehat.
+## Blog dan Artikel Kuliner:
+* Baca artikel menarik tentang tren kuliner terbaru, resep masakan, dan tips makan sehat.
 Temukan wawancara eksklusif dengan koki terkenal dan penggemar kuliner.
-Call to Action (CTA):
+
+## Call to Action (CTA):
 Daftar Sekarang: Buat akun gratis dan mulai petualangan kuliner Anda.
 Unduh Aplikasi: Dapatkan pengalaman kuliner terbaik dengan aplikasi mobile kami. Tersedia di iOS dan Android.
 Mulai Jelajahi: Temukan restoran terbaik dan hidangan lezat di sekitar Anda sekarang juga.
 Testimoni Pelanggan:
 "Saya selalu menemukan restoran baru yang luar biasa di [Nama Situs]. Proses pemesanan sangat mudah dan cepat!" - [Nama Pelanggan]
 
-Footer:
+## Footer:
 Tentang Kami: Pelajari lebih lanjut tentang misi kami dalam menghubungkan pecinta kuliner dengan restoran terbaik.
 Kontak: Hubungi kami untuk pertanyaan, umpan balik, atau kemitraan bisnis.
 Sosial Media: Ikuti kami di platform sosial media untuk update terbaru dan konten eksklusif.
